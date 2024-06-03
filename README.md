@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQFnbp1JAtNMfA/profile-displaybackgroundimage-shrink_350_1400/0/1696586554493?e=1717027200&v=beta&t=A9KzEfcXI3xjs2TIu8d_7PirSXRvZFDxkyilgm0Wqbw)](https://rishavchanda.i)
+
 
 
 <h1 align="center">Hi 👋, I'm Omar Ehab</h1>
