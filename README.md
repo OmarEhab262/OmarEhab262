@@ -1,6 +1,3 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQFnbp1JAtNMfA/profile-displaybackgroundimage-shrink_350_1400/0/1696586554493?e=1717027200&v=beta&t=A9KzEfcXI3xjs2TIu8d_7PirSXRvZFDxkyilgm0Wqbw)](https://rishavchanda.i)
-
-
 <h1 align="center">Hi 👋, I'm Omar Ehab</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
