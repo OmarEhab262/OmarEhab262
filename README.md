@@ -1,6 +1,3 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQFnbp1JAtNMfA/profile-displaybackgroundimage-shrink_350_1400/0/1696586554493?e=1717027200&v=beta&t=A9KzEfcXI3xjs2TIu8d_7PirSXRvZFDxkyilgm0Wqbw)](https://rishavchanda.i)
-
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omar+Ehab+Mahmoud!;" />
 </h1>
@@ -34,8 +31,8 @@
 <h2 align="center">⚒️ Languages, Frameworks, and Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,redux,typescript,html,css,js,git,vscode,tailwind,bootstrap,figma" />
-    <img src="https://skillicons.dev/icons?i=python,git,photoshop,illustrator" /><br>
+    <img src="https://skillicons.dev/icons?i=react,redux,typescript,html,css,js,JQuery,vscode" />
+    <img src="https://skillicons.dev/icons?i=python,git,photoshop,illustrator,MaterialUI-Dark,Sass,tailwind,bootstrap,figma" /><br>
 </div>
 
 <br/>
@@ -50,8 +47,27 @@
 
 <hr/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarehab262&show_icons=true&locale=en&layout=compact" alt="omarehab262" /></p>
+<p>
+  <img 
+    align="left" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=omarehab262&show_icons=true&locale=en&layout=compact&theme=dark" 
+    alt="omarehab262" 
+  />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarehab262&show_icons=true&locale=en" alt="omarehab262" /></p>
+<p>
+  &nbsp;
+  <img 
+    align="center" 
+    src="https://github-readme-stats.vercel.app/api?username=omarehab262&show_icons=true&locale=en&theme=dark" 
+    alt="omarehab262" 
+  />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarehab262&" alt="omarehab262" /></p>
+<p>
+  <img 
+    align="center" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=omarehab262&theme=dark" 
+    alt="omarehab262" 
+  />
+</p>
