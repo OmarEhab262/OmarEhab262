@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **react , MERN**
+- 💬 Ask me about **react 
 
 - 📫 How to reach me **orlgamal26@gmail.com**
 
